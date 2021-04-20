@@ -1,5 +1,3 @@
-### OpenCV4_QT5
-
 ## 載入圖片
 ![Result2](https://user-images.githubusercontent.com/14908981/115439438-2c048600-a241-11eb-9dea-f5c317e139d8.jpg)
 
